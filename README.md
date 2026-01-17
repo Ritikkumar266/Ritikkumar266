@@ -1,74 +1,76 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
-<h3 align="center">BTech Student | Aspiring Full Stack Developer | Open Source Enthusiast</h3>
+<h3 align="center">BTech Student | Full Stack Developer | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/Ritikkumar266">
-    <img src="https://komarev.com/ghpvc/?username=Ritikkumar266&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Ritikkumar266&label=Profile%20Views&color=blue&style=flat" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me  
-
-- 🎓 BTech Student passionate about **Web Development & Open Source**
-- 🌱 Currently learning **React, Node.js, MongoDB**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🧑‍💻 Actively contributing to **Open Source Connect Global**
-- 🎯 Goal: Become a skilled **Full Stack Developer**
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-### 🌐 Frontend  
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwind-css)
-
-### ⚙️ Backend & Tools  
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+## 🚀 About Me
+- 🎓 BTech student passionate about **Web Development & Open Source**
+- 💻 Skilled in **Frontend & Backend Development**
+- 🌱 Currently exploring **Open Source Contributions**
+- 🤝 Contributor at **Open Source Connect Global**
+- 🎯 Aspiring **Software / Full Stack Developer**
 
 ---
 
-## 🌍 Open Source Journey  
+## 🛠️ Tech Stack
 
-- 🌟 Contributor at **Open Source Connect Global**
-- 🎖️ Participating in **Hacktoberfest**
-- 🔁 Making meaningful PRs and learning collaborative development
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+🖥️ Local Server: **XAMPP**
 
 ---
 
-## 📊 GitHub Stats  
+## 🌍 Open Source Journey
+- 🌟 Active Open Source Contributor
+- 🧑‍💻 Participating in Hacktoberfest
+- 🔁 Experience with PRs, issues, and community collaboration
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritikkumar266&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritikkumar266&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikkumar266&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikkumar266&theme=radical" />
 </p>
 
 ---
 
-## 🏆 Achievements & Badges (Coming Soon 🚀)
-- 🧑‍💻 Open Source Contributions  
-- 🎖️ Holopin Badges  
-- 🏅 Hacktoberfest Badges  
+## 🏆 Achievements
+- Open Source Contributions
+- Hacktoberfest Participant
+- Holopin Badges (Coming Soon 🚀)
 
 ---
 
-## 🤝 Connect With Me  
-
+## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ritik-kumar-8a8980289/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -80,4 +82,4 @@
 
 ---
 
-⭐ *“Learning by building, growing by contributing.”*
+⭐ *“Build skills. Contribute openly. Grow consistently.”*
